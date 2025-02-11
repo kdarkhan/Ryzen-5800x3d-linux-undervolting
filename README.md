@@ -62,3 +62,8 @@ $ echo bash
 ```sh
 $ echo sh
 ```
+
+
+```console
+$ echo sh
+```
